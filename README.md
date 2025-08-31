@@ -15,14 +15,14 @@ The goal is to practice and document solutions across multiple programming langu
 Each problem will have its own folder, containing solutions in all supported languages.
 
 ├── problem-name/
-│ └── elixir/
-│ └── solution.exs
+│ ├── elixir/
+│   └── solution.exs
 │ ├── go/
-│ │ └── solution.go
+│   └── solution.go
 │ ├── python/
-│ │ └── solution.py
+│   └── solution.py
 │ ├── typescript/
-│ │ └── solution.ts
+│   └── solution.ts
 
 ## 🚀 How to Run
 
@@ -52,13 +52,14 @@ python solution.py
 ```bash
 cd problem-name/typescript
 tsc solution.ts
+node solution.js
 ```
 
 ## 📊 Progress Tracker
 
 | Problem                  | Elixir 💧 | Go 🐹  | Python 🐍 | TypeScript 🟦 |
 | ------------------------ | --------- | ------ | --------- | ------------- |
-| Two Number Sum           | ⬜         | ⬜      | ⬜         | ⬜             |   
+| Two Number Sum           | ✅         | ✅      | ✅         | ✅         |   
  
 Legend: ✅ = solved, ⬜ = not yet solved
 
