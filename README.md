@@ -15,14 +15,14 @@ The goal is to practice and document solutions across multiple programming langu
 Each problem will have its own folder, containing solutions in all supported languages.
 
 ├── problem-name/
-│ ├── elixir/
-│   └── solution.exs
-│ ├── go/
-│   └── solution.go
-│ ├── python/
-│   └── solution.py
-│ ├── typescript/
-│   └── solution.ts
+│   ├── elixir/
+│   │   └── solution.exs
+│   ├── go/
+│   │   └── solution.go
+│   ├── python/
+│   │   └── solution.py
+│   └── typescript/
+│       └── solution.ts
 
 ## 🚀 How to Run
 
