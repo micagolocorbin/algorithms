@@ -60,6 +60,8 @@ node solution.js
 | Problem                  | Elixir 💧 | Go 🐹  | Python 🐍 | TypeScript 🟦 |
 | ------------------------ | --------- | ------ | --------- | ------------- |
 | Two Number Sum           | ✅         | ✅      | ✅         | ✅         |   
+| Validate Subsequence     | ✅         | ✅      | ✅         | ✅         | 
+| Sorted Squared Array     | ✅         | ✅      | ✅         | ✅         | 
  
 Legend: ✅ = solved, ⬜ = not yet solved
 
